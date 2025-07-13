@@ -1,16 +1,18 @@
 # Contact Me
 
-If all else fails... You can contact me by submitting an "issue" here: https://github.com/devinschumacher/contact/issues
+Places where I see notifications most frequently, in order:
 
-## Contact info
-
-- [Linkedin](https://serp.ly/@devin/linkedin)
 - [Instagram](https://serp.ly/@devin/instagram)
+- [YouTube](https://serp.ly/@devin/youtube)
+- [Linkedin](https://serp.ly/@devin/linkedin)
 - [Facebook](https://serp.ly/@devin/facebook)
 - [Twitter](https://serp.ly/@devin/twitter)
-- [Github](https://serp.ly/@devin/github)
+
 
 ## Communities
 
 - [SERP University Community Platform](https://serp.ly/@serp/community)
 - [Discord](https://serp.ly/@serp/discord)
+
+
+...and if all else fails, you can contact me by [submitting an issue](https://github.com/devinschumacher/contact/issues).
